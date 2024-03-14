@@ -7,6 +7,7 @@ It is used to record the knowledge and experience related to electrical circuity
 # Table of Contents
 
 ## 1. basic-circuit-laws
+* ### [Basic Relationships](./basic-circuit-laws/basic-relationships.md)
 * ### [Ohm's Law](./basic-circuit-laws/ohm-law.md)
 * ### [Kirchhoff's Current Law](./basic-circuit-laws/kcl.md)
 * ### [Kirchhoff's Voltage Law](./basic-circuit-laws/kvl.md)
